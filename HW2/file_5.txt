@@ -1,0 +1,8 @@
+C
+23
+    .. .P   
+  .P......  
+P.......P..P
+PPPP..P.P.P.
+  PPPPPPPP  
+    P   P   
