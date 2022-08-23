@@ -1,0 +1,29 @@
+A X X B 
+A X X B 
+C D D E 
+C F G E 
+H     I 
+  A B C D E F G H I 
+1       P P P       
+2       P P P       
+3       P . P       
+4 P P P P . P P P P 
+5 P P P P P P P P P 
+6 P P P P P P P P P 
+7       P P P       
+8       P P P       
+9       P P P       
+
+  A B C D E F G H I 
+1       P P P       
+2       P P P       
+3       P . P       
+4 P P . . P P P P P 
+5 P P P P P P P P P 
+6 P P P P P P P P P 
+7       P P P       
+8       P P P       
+9       P P P       
+
+Computer score is : 12
+Computer score is : 6
