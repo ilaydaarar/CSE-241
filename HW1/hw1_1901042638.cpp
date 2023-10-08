@@ -8,7 +8,7 @@ using namespace std;
 
 enum state {peg, empty, space}; //Providing enum type for using in boards.
 
-/*In all of the print_board functions, the goal is printing the game board which user chooses. First I print the uppercase characters on top
+/*In all of the print_board , the goal is printing the game board which user chooses. First I print the uppercase characters on top
 of the board within the numbers of rows in the loop. I iterate through the 2D vector and print P, . and space according to selected vector.*/
 
 void print_board_1(vector<vector<state>> board_1){
